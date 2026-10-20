@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin: 20px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+img {
+    width: 300px;
+}
